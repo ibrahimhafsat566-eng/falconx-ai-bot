@@ -1,0 +1,8 @@
+{
+  "name": "falconx-ai-bot",
+  "private": true,
+  "scripts": {
+    "build": "echo Building FalconX AI Bot",
+    "start": "echo Starting FalconX AI Bot"
+  }
+}
